@@ -9,8 +9,5 @@ iuhiyuh
 jokjhih
 
 
-
-
-
-
-sagshtyjyr
+b=50
+print("b")
